@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarmanAhmad
-- 👀 I’m interested in expanding my skills as a computer programmer/highschool student!
+- 👀 I’m interested in expanding my skills as a computer programmer!
 - 🌱 I’m currently learning the basics of networking
 - 💞️ I’m looking to collaborate on anything to do with web development
 - 📫 How to reach me: You can reach me through my github email!
